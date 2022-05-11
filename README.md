@@ -35,10 +35,10 @@
 
 
 ## 📈 Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=uyt alt=uyt /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=MojitoTea alt=MojitoTea /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=uyt&show_icons=true&include_all_commits=true)](https://github.com/uyt/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uyt&layout=compact)](https://github.com/uyt/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=MojitoTea&show_icons=true&include_all_commits=true)](https://github.com/MojitoTea/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MojitoTea&layout=compact)](https://github.com/MojitoTea/github-readme-stats)
 
 ## 🔗 Links
 
