@@ -8,9 +8,6 @@
 
 👨‍💻 I develop in the field of programming and applied sciences.
 
-📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
-
-✈️ I love **traveling** too. 
 
 
 ## 🛠️ Skills
